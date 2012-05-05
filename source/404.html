@@ -1,0 +1,18 @@
+---
+layout: page
+title: 404 File not found!
+footer: false
+---
+<p>
+    Oops, we can't seem to find the page you were looking for.
+</p>
+<p>
+    Even so, please have a look at some of our other articles.
+</p>
+<div id="blog-archives" class="missing">
+  {% for post in site.posts limit: 10 %}
+  <article>
+    {% include archive_post.html %}
+  </article>
+  {% endfor %}
+</div>
