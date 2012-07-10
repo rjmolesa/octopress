@@ -1,3 +1,30 @@
+## This is a customized version of [Octopress.org](http://octopress.org/docs)
+
+It has all the features and settings that I like. This allows me to setup a new
+blog very quickly.
+
+The features I use that are not found in the default install are:
+
+- <s>Separate index and blog index pages (complete) </s>
+- <s>Force www using rack (complete) </s>
+- <s>Mailchimp signup aside (complete) </s> 
+- A [heroku
+deploy](http://joshuawood.net/how-to-deploy-jekyll-slash-octopress-to-heroku/} task that doesn't commit public to the repo (complete)
+- Add a openshift deploy option
+- <s>md as default extension instead of markdown (complete) </s> 
+- Launches the webserver in a seperate xterm on preview (complete) </s> 
+- <s>Launches a browser with site loaded on preview (complete) </s> 
+- <s>Custom 404 page (complete) </s> 
+- [Tag cloud](http://brizzled.clapper.org/blog/2010/12/20/some-jekyll-hacks/)
+- [Projects page] (http://recursive-design.com/projects/jekyll-plugins/)
+- <s>Adds keywords and description metadata to each new post and page (complete) </s> 
+- Plugin for self-hosted url shortner YOURLS. Based on this [link](https://github.com/threestage/yourls) and this [one](http://simonwoodside.com/weblog/2008/12/7/ruby_on_rails_feedrss_aggregator/)
+- <s>Add the [Readability Plugin](https://github.com/kevinSuttle/Readability-Octopress-Plugin) (complete) </s> 
+- html5 boilerplate https://github.com/xtine/compass-sass-html5boilerplate or twitter bootstrap using https://github.com/thomas-mcdonald/bootstrap-sass/
+- breadcrumbs https://github.com/dbaupp/dbaupp.github.com/blob/master/_layouts/default.html#L12, http://dbaupp.github.com/bread/crumbs/example/, and http://joshuawood.net/how-to-deploy-jekyll-slash-octopress-to-heroku/
+- Add a feed aggragator plugin using https://github.com/pauldix/feedzirra
+- Add indexer for creating books and such http://tonytonyjan.github.com/blog/octopress-indexer/
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
