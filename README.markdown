@@ -11,6 +11,8 @@ The features I use that are not found in the default install are:
 - A [heroku
 deploy](http://joshuawood.net/how-to-deploy-jekyll-slash-octopress-to-heroku/} task that doesn't commit public to the repo (complete)
 - Add a openshift deploy option
+- Add GAE deploy
+- Restructure github deploy
 - <s>md as default extension instead of markdown (complete) </s> 
 - Launches the webserver in a seperate xterm on preview (complete) </s> 
 - <s>Launches a browser with site loaded on preview (complete) </s> 
