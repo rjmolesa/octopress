@@ -49,16 +49,16 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth
-  compass (>= 0.11)
-  haml (>= 3.1)
-  jekyll
-  liquid (= 2.2.2)
-  pygments.rb
-  rack
-  rake
-  rb-fsevent
-  rdiscount
-  rubypants
-  sinatra (= 1.2.6)
-  stringex
+  RedCloth (~> 4.2.9)
+  compass (~> 0.12.2)
+  haml (~> 3.1.7)
+  jekyll (~> 0.12)
+  liquid (~> 2.3.0)
+  pygments.rb (~> 0.3.4)
+  rake (~> 0.9)
+  rb-fsevent (~> 0.9)
+  rdiscount (~> 1.6.8)
+  rubypants (~> 0.2.0)
+  sass-globbing (~> 1.0.0)
+  sinatra (~> 1.4.2)
+  stringex (~> 1.4.0)
