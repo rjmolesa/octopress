@@ -7,14 +7,9 @@ require "stringex"
 ssh_user       = "user@domain.com"
 ssh_port       = "22"
 document_root  = "~/website.com/"
-<<<<<<< HEAD
 rsync_delete   = true
 deploy_default = "heroku"
-=======
-rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
->>>>>>> e83dfccc4f6f2db6283918af1743e63278807089
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
